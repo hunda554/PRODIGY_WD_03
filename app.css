@@ -23,11 +23,11 @@ body {
   }
   
   .right-border {
-    border-right: 0.2em solid indigo;
+    border-right: 0.2em solid red;
   }
   
   .bottom-border {
-    border-bottom: 0.2em solid indigo;
+    border-bottom: 0.2em solid red;
   }
   
   .strike {
@@ -86,7 +86,7 @@ body {
   
   #game-over-area {
     text-align: center;
-    border: indigo 8px solid;
+    border: cyan 8px solid;
     padding: 50px;
     width: 50%;
     margin-top: 50px;
