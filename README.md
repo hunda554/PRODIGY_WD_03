@@ -27,7 +27,7 @@ Players can choose between two modes: playing with a friend locally or playing a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hunda554/PRODIGY_WD_02.git
+   git clone https://github.com/hunda554/PRODIGY_WD_03.git
 
 
 ## what I learned
